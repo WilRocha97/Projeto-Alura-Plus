@@ -5,7 +5,6 @@ feito um curso.
 ## Ferramentas utilizadas:
 * HTML
 * CSS
-* JavaScript
 
 ## Feito por
 ### Willian Rodrigues
