@@ -11,4 +11,4 @@ feito um curso.
 ### Site: https://willian-rodrigues.vercel.app
 ### LinkeIn: https://www.linkedin.com/in/willian-rodrigues-a623b6248/
 
-![Alura Plus](https://github.com/WilRocha97/Meu-site/blob/Portfolio/assets/Alura+.png)
+![Alura Plus](https://github.com/WilRocha97/Meu-site/blob/b407af7c14f23a0e24cb11db94b6c0b93e79911b/Portfolio/assets/Alura+.png))
